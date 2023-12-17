@@ -1,4 +1,3 @@
-// Calculadora de Soma em JavaScript para CMD
 
 const readline = require('readline');
 
@@ -28,5 +27,3 @@ function calculadoraSoma() {
   });
 }
 
-// Chama a função da calculadora
-calculadoraSoma();
