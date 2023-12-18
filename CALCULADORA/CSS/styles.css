@@ -5,7 +5,7 @@
 .img {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
-    transform: translate(580%,-250%);
+    transform: translate(455%,-225%);
     border-radius: 15px;
     padding: 10px;
     margin: 35vh;
@@ -62,4 +62,10 @@
     color: black;
     text-align: right;
     padding: 5px;
+}
+
+.block-footer {
+	padding: 430px;
+	color: #fff;
+	text-align: center;
 }
